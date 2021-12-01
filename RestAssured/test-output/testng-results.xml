@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="10" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14899" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14899" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:53 IST">
+      <class name="apitest.demo_testng">
+        <test-method status="PASS" signature="BS()[pri:0, instance:apitest.demo_testng@1c27452]" name="BS" is-config="true" duration-ms="9" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:apitest.demo_testng@1c27452]" name="BT" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="BC()[pri:0, instance:apitest.demo_testng@1c27452]" name="BC" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:apitest.demo_testng@1c27452]" name="BM" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:apitest.demo_testng@1c27452]" name="testCase1" duration-ms="6" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:apitest.demo_testng@1c27452]" name="AM" is-config="true" duration-ms="1" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:apitest.demo_testng@1c27452]" name="BM" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:apitest.demo_testng@1c27452]" name="testCase2" duration-ms="1" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:apitest.demo_testng@1c27452]" name="AM" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:apitest.demo_testng@1c27452]" name="AC" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- apitest.demo_testng -->
+      <class name="apitest.Ecommerce">
+        <test-method status="PASS" signature="login()[pri:1, instance:apitest.Ecommerce@1ec78b9]" name="login" duration-ms="7140" started-at="2021-12-01T12:03:38 IST" finished-at="2021-12-01T12:03:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="get()[pri:2, instance:apitest.Ecommerce@1ec78b9]" name="get" duration-ms="3266" started-at="2021-12-01T12:03:45 IST" finished-at="2021-12-01T12:03:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="delete()[pri:3, instance:apitest.Ecommerce@1ec78b9]" name="delete" duration-ms="1874" started-at="2021-12-01T12:03:49 IST" finished-at="2021-12-01T12:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- apitest.Ecommerce -->
+      <class name="apitest.demo_testng2">
+        <test-method status="PASS" signature="BC()[pri:0, instance:apitest.demo_testng2@3869f4]" name="BC" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:50 IST" finished-at="2021-12-01T12:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:apitest.demo_testng2@3869f4]" name="testCase3" duration-ms="2" started-at="2021-12-01T12:03:50 IST" finished-at="2021-12-01T12:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:apitest.demo_testng2@3869f4]" name="BM" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:50 IST" finished-at="2021-12-01T12:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:apitest.demo_testng2@3869f4]" name="AT" is-config="true" duration-ms="0" started-at="2021-12-01T12:03:53 IST" finished-at="2021-12-01T12:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method status="PASS" signature="AS()[pri:0, instance:apitest.demo_testng2@3869f4]" name="AS" is-config="true" duration-ms="1" started-at="2021-12-01T12:03:53 IST" finished-at="2021-12-01T12:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- apitest.demo_testng2 -->
+      <class name="apitest.Demo_java">
+        <test-method status="PASS" signature="createBoard()[pri:0, instance:apitest.Demo_java@1f99a05]" name="createBoard" duration-ms="937" started-at="2021-12-01T12:03:50 IST" finished-at="2021-12-01T12:03:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoard -->
+        <test-method status="PASS" signature="getBoard()[pri:1, instance:apitest.Demo_java@1f99a05]" name="getBoard" duration-ms="721" started-at="2021-12-01T12:03:51 IST" finished-at="2021-12-01T12:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBoard -->
+        <test-method status="PASS" signature="deleteBoard()[pri:2, instance:apitest.Demo_java@1f99a05]" name="deleteBoard" duration-ms="906" started-at="2021-12-01T12:03:52 IST" finished-at="2021-12-01T12:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+      </class> <!-- apitest.Demo_java -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
